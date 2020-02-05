@@ -1,0 +1,4 @@
+Things to review
+- object oriented programing concepts
+- some arithmatic stuff
+- data
